@@ -1,6 +1,6 @@
 How did viewing a diff between two versions of a file
 help you see the bug that was introduced?
-  it allowed me to see that most of the code was the 
+  it allowed me to see that most of the code was the
   same except for the small errors
 How could having easy access to the entire history of a file
 make you a more efficient programmer in the long term?
@@ -16,3 +16,13 @@ Why do you think some version control systems, like Git, allow saving multiple f
 one commit, while others, like Google Docs, treat each file separately?
   git treats multiple files to one commit since software development usually
   requires multiple files to work together while google docs does not
+How can you use the commands git log and git diff to view the history of files?
+  use git log to display the commits and git diff to show the changes from
+  a commit to another
+How might using version control make you more
+confident to make changes that could break something?
+  theres a way to recover the code before the breaks so doing risky stuff
+  can be done
+Now that you have your workspace set up, what
+do you want to try using Git for?
+ my class that I am required to take lol
